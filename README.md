@@ -1,15 +1,73 @@
-# Générateur de Codes
+# Générateur de Codes Premium
 
-## Instructions
+## Fonctionnalités
 
-1. Assurez-vous d’avoir **Python** installé sur votre système.  
-   🔗 [Télécharger Python ici](https://www.python.org/downloads/)
+### Types de Codes Supportés
+- 🎮 Discord Nitro
+- 💰 V-Bucks (Fortnite)
+- 🎯 PlayStation Store
+- 🟢 Xbox Store
+- 🎲 Steam
+- 🎌 Nintendo eShop
+- 💵 PayPal
+- ₿ Bitcoin
+- 📦 Amazon
+- 🎯 Ubisoft Connect
+- 🎮 Epic Games Store
+- ⚔️ Battle.net
+- 🎲 GOG.com
 
-2. Téléchargez le fichier `app.py` de ce dépôt.
+### Fonctionnalités de Sécurité
+- 🔄 Rotation automatique des proxies
+- 🕵️ Mode furtif
+- 🛡️ Système anti-détection
+- 🌍 Validation géographique
+- 🔍 Scan de vulnérabilités
+- 🔐 Cryptage des données
+- 📊 Contrôle de vitesse intelligent
 
-3. Ouvrez un terminal ou une invite de commandes dans le dossier où se trouve `app.py`.
+### Fonctionnalités Techniques
+- ⚡ Génération multi-thread
+- 📝 Logs détaillés
+- 📊 Statistiques en temps réel
+- 🎯 Validation de format des codes
+- 💾 Sauvegarde automatique
+- 🔄 Reprise après interruption
+- 📈 Rapports de performance
 
-4. Lancez la commande suivante :
+### Interface
+- 🎨 Interface colorée en console
+- ⌛ Animations de chargement
+- 🔄 Barre de progression
+- 📊 Affichage temps réel
+- ❌ Gestion des erreurs
+- 🎯 Menu intuitif
 
-```bash
-python app.py
+### Système de Logs
+- ✅ Codes valides
+- ❌ Codes invalides
+- 📊 Statistiques détaillées
+- 🕒 Horodatage
+- 🔍 Hash de vérification
+- 📁 Organisation par session
+
+## Installation
+
+1. Assurez-vous d'avoir Python 3.x installé
+   ```bash
+   python --version
+   ```
+
+2. Clonez le dépôt ou téléchargez `app.py`
+
+3. Lancez le programme
+   ```bash
+   python app.py
+   ```
+
+## Notes de Sécurité
+- Les codes sont générés localement
+- Rotation automatique des proxies
+- Mode furtif intégré
+- Système anti-détection
+- Validation des formats
